@@ -1,6 +1,6 @@
 class rabbit {
   rabbit() {
-    x = width/2;
+    x = 0;
     y = width/2;
     b = 5;
     vx = random(3, 5);
